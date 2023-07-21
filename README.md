@@ -6,6 +6,8 @@ Welcome to the Rubik's Cube Solver in Three.js! This project is a web-based Rubi
 
 You can try out the Rubik's Cube Solver online by visiting the following link: [Rubik's Cube Solver](https://k-rishabh6172.github.io/Cubie-solver/)
 
+[Video Link](https://youtu.be/UF4r9HVPGjc)
+
 ![Rubik's Cube Solver](./ss.png)
 
 ## Features
